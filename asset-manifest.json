@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hoom/static/css/main.d35821be.css",
-    "main.js": "/hoom/static/js/main.461aae98.js",
-    "index.html": "/hoom/index.html",
-    "main.d35821be.css.map": "/hoom/static/css/main.d35821be.css.map",
-    "main.461aae98.js.map": "/hoom/static/js/main.461aae98.js.map"
+    "main.css": "/kofetel/static/css/main.d35821be.css",
+    "main.js": "/kofetel/static/js/main.461aae98.js",
+    "index.html": "/kofetel/index.html",
+    "main.d35821be.css.map": "/kofetel/static/css/main.d35821be.css.map",
+    "main.461aae98.js.map": "/kofetel/static/js/main.461aae98.js.map"
   },
   "entrypoints": [
     "static/css/main.d35821be.css",
