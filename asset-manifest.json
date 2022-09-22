@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kofetel/static/css/main.d35821be.css",
-    "main.js": "/kofetel/static/js/main.461aae98.js",
+    "main.js": "/kofetel/static/js/main.d3d49542.js",
     "index.html": "/kofetel/index.html",
     "main.d35821be.css.map": "/kofetel/static/css/main.d35821be.css.map",
-    "main.461aae98.js.map": "/kofetel/static/js/main.461aae98.js.map"
+    "main.d3d49542.js.map": "/kofetel/static/js/main.d3d49542.js.map"
   },
   "entrypoints": [
     "static/css/main.d35821be.css",
-    "static/js/main.461aae98.js"
+    "static/js/main.d3d49542.js"
   ]
 }
