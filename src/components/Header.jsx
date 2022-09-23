@@ -19,9 +19,9 @@ function Header(props) {
     >
       <Container maxWidth='xl'>
         <Toolbar disableGutters>
-          <IconButton sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }}>
-            logo
-          </IconButton>
+      
+        
+
 
           <Typography
             variant='h6'
